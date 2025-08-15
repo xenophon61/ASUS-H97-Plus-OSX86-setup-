@@ -1,4 +1,4 @@
-# ASUS-H97-Plus-OSX86-setup-
+# ASUS-H97-Plus setup for MacOS
 EFI folder (sans serials) for MacOS
 
 
